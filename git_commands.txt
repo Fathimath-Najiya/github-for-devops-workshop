@@ -22,5 +22,36 @@ git status
   git remote -v
   git push origin master
   clear
+  git add git_commands.txt
+  git commit -m "added new commands" 
+  git push origin master
+  git add git_command.txt
+  git add git_commands.txt
+  git commit -m "added new commands"
+  git commit -m "added extra commands"
+  git push origin master
+  git add git_commands.txt
+  git commit -m "added extra commands"
+  git push origin master
+  git pull origin master
+  git branch
+  git branch dev
+  git branch
+  git switch dev
+  git status
+  git add this_is_from_dev.txt
+  git commit -m "added dev file"
+  git status
+  git switch master
+  git switch dev
+  git log
+  git log --oneline
+  git checkout master
+  git log --oneline
+  git checkout dev
+  git push origin dev
+  git switch master
+  git pull origin master
 
+  
 this is some new changes
