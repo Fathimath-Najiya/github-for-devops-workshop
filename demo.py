@@ -4,7 +4,7 @@ Demo module containing basic mathematical helper functions.
 
 
 def my_function():
-  
+
     """
     Returns a static integer value of 5.
     """
